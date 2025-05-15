@@ -13,4 +13,12 @@ This application requires root access on macOS and administrator privileges on W
     •    On Windows, you must run the terminal as an administrator to allow the web application to perform scanning operations.
 This application has been tested and works in both Firefox and Chrome. However, its functionality is not optimal in Safari. 
 
+NB: It is important to choose your operating system correctly before scanning; otherwise, you will get an error.
+
+
+Existing user:
+Username: admin@admin.com
+Password: admin123
+
+
 
